@@ -1,0 +1,28 @@
+createdAt: "2018-11-18T08:50:58.102Z"
+updatedAt: "2018-11-18T08:52:12.542Z"
+type: "SNIPPET_NOTE"
+folder: "bbdd057d318a6fffd40b"
+title: "python"
+description: "python"
+snippets: [
+  {
+    name: "g.py"
+    mode: "Python"
+    content: '''
+      import numpy
+      
+      #include 
+    '''
+  }
+  {
+    name: "fd.c"
+    mode: "C"
+    content: "fdasf"
+  }
+]
+tags: [
+  "fds"
+  "fsd"
+]
+isStarred: false
+isTrashed: false
